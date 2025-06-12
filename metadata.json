@@ -1,0 +1,24 @@
+{
+  "name": "Dupe Token",
+  "symbol": "DUPE",
+  "description": "Dupe is a meme token designed to unlock value through fun and community on Solana.",
+  "image": "https://ipfs.io/ipfs/QmYourImageHash.jpg",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Meme"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Solana"
+    }
+  ],
+  "collection": {
+    "name": "Dupe Token",
+    "family": "Dupe Ecosystem"
+  },
+  "properties": {
+    "category": "image"
+  }
+}
